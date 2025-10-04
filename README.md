@@ -41,7 +41,7 @@ An interactive Python-based visualizer for popular pathfinding algorithms using 
 
 ## Project Structure
 
-- **maze_visualizer/**:
+- **Algorithms_Visualization/**:
   - maze/
     - gui.py ; Handles UI with ttkbootstrap and canvas drawing
     - algorithms.py ; Implements all pathfinding algorithms
